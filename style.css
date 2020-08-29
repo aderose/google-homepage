@@ -108,7 +108,7 @@ a:hover {
     grid-template-columns: auto auto;
     grid-template-areas:
         "searchbox searchbox"
-        "button1 button2"
+        "button1 button2";
 }
 
 #search-container {
